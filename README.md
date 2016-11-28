@@ -1,6 +1,6 @@
 Description
 ---------------------
-Shell created from scratch providing many functionalities such as wildcards, environment variables, process_time...
+Shell created from scratch providing many functionalities such as wildcards, environment variables, process time...
 
 Compilation and tests
 ---------------------
